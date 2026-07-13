@@ -104,7 +104,7 @@ export const team: Member[] = [
     name: "Kevine Umuganwa",
     country: "Rwanda",
     email: "k.umuganwa@alustudent.com",
-    photo: "/team/kevine.jpg",
+    photo: "/team/kevine.jpeg",
     lead: true,
   },
   {
@@ -112,34 +112,34 @@ export const team: Member[] = [
     interests: "Technology, Artificial Intelligence (AI)",
     country: "Burundi",
     email: "j.horugavye@alustudent.com",
-    photo: "/team/jean.jpg",
+    photo: "/team/chretien.jpeg",
   },
   {
     name: "Ian Misati",
     interests: "Healthcare, Women’s Healthcare",
     country: "Nairobi, Kenya",
     email: "i.misati@alustudent.com",
-    photo: "/team/ian.jpg",
+    photo: "/team/misati.jpeg",
   },
   {
     name: "Miriam Meles",
     interests: "Pan-Africanism, Tech, Fashion",
     country: "Eritrea",
     email: "m.meles@alustudent.com",
-    photo: "/team/miriam.jpg",
+    photo: "/team/Miriam.jpeg",
   },
   {
     name: "Elina Mugiraneza",
     country: "Rwanda",
     email: "e.mugiranez@alustudent.com",
-    photo: "/team/elina.jpg",
+    photo: "/team/elina.jpeg",
   },
   {
     name: "Mutware Kayitare Chris",
     interests: "Tech, Basketball, Pan-Africanism",
     country: "DR Congo",
     email: "c.mutware@alustudent.com",
-    photo: "/team/chris.jpg",
+    photo: "/team/Chris.jpeg",
   },
 ];
 
